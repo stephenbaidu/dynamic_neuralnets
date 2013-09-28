@@ -20,6 +20,6 @@ etc.
 
 From terminal, execute:
 
-    $ git clone ggit://github.com/stephenbaidu/dynamic_neuralnets.git
+    $ git clone git://github.com/stephenbaidu/dynamic_neuralnets.git
     $ cd dynamic_neuralnets
     $ octave nnStart.m
